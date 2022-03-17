@@ -1,3 +1,5 @@
 # RayAnthoney-Portfolio
 
-![Home Screen](/images/ram-portfolio-home.png)
+![Home Screen](/images/assets/ram-portfolio-home.png)
+
+![Home Screen](/images/assets/ram-portfolio-home-phone.png)
