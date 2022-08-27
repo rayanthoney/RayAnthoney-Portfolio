@@ -30,3 +30,9 @@
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-481e89?style=plastic&for-the-badge&labelColor=white&logo=bootstrap&logoColor=481e89)](#)&nbsp;&nbsp;
 
 ---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,expressjs,react,nodejs,laravel,github,markdown,mysql,webpack,wordpress" />
+  </a>
+</p>
