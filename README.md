@@ -31,8 +31,8 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,expressjs,react,nodejs,laravel,github,markdown,mysql,webpack,wordpress" />
   </a>
-</p>
+</p> -->
